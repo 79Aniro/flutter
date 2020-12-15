@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "196238715108",
+    "project_id": "chatflutter-e74f1",
+    "storage_bucket": "chatflutter-e74f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196238715108:android:2991add480b0574db364f1",
+        "android_client_info": {
+          "package_name": "montenegro.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196238715108-0fcu55cgu276avvm936o3e4ntfm6h75d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "montenegro.com.chat",
+            "certificate_hash": "dada14c70cd73dc663180d847e9b31abf07630a7"
+          }
+        },
+        {
+          "client_id": "196238715108-4ec1ilsf2jl0kc7qf5tsa09bbgfm8ln9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9vEhBuywKEiqccSadFgc9UYtgMUqzsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196238715108-4ec1ilsf2jl0kc7qf5tsa09bbgfm8ln9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
